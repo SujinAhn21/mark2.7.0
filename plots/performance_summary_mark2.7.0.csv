@@ -1,0 +1,11 @@
+# Performance Summary for mark2.7.0
+
+Metric,Score
+Accuracy,0.9666666666666667
+ROC AUC,0.9644444444444444
+
+# Class-wise Metrics
+
+Class,Precision,Recall,F1-Score
+construction,0.9375,1.0,0.967741935483871
+others,1.0,0.9333333333333333,0.9655172413793104
